@@ -15,15 +15,16 @@
 > 无需部署，可以直接查看内容
 
 ## 目录结构描述
-test-site
-|--images
-&ensp;&ensp;|--firefox.png
-&ensp;&ensp;|--firefox002.png
-&ensp;&ensp;|--firefox-icon001.png
-|--scripts
-|--styles
-&ensp;&ensp;|--sytle.css
-|--index.html
+test-site  
+|--images     
+&ensp;&ensp;|--firefox.png  
+&ensp;&ensp;|--firefox002.png  
+&ensp;&ensp;|--firefox-icon001.png  
+|--scripts  
+&ensp;&ensp;|--main.js  
+|--styles  
+&ensp;&ensp;|--sytle.css  
+|--index.html  
 
 ## 版本内容更新
 | 更新序号 | 更新人 | 更新内容| 
