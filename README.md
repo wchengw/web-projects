@@ -17,12 +17,12 @@
 ## 目录结构描述
 test-site
 |--images
-   |--firefox.png
-   |--firefox002.png
-   |--firefox-icon001.png      
+&ensp;&ensp;|--firefox.png
+&ensp;&ensp;|--firefox002.png
+&ensp;&ensp;|--firefox-icon001.png
 |--scripts
 |--styles
-   |--sytle.css
+&ensp;&ensp;|--sytle.css
 |--index.html
 
 ## 版本内容更新
